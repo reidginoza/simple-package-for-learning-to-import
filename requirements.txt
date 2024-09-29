@@ -1,0 +1,1 @@
+git+https://github.com/reidginoza/simple-package-for-learning-python-packaging.git;
