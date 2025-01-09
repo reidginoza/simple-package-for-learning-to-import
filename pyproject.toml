@@ -1,5 +1,5 @@
 [project]
-# The name stands for "Simple Package for Learning Python Packaging"
+# The name stands for "Simple Package for Learning to Import"
 name = "splti"
 version = "0.0.1"
 #dynamic = ["dependencies"]
